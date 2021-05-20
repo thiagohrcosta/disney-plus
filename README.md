@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 teste
 In the project directory, you can run:
-
+ok
 ### `yarn start`
 
 Runs the app in the development mode.<br />
